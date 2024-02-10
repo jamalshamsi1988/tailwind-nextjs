@@ -1,15 +1,5 @@
-import Link from "next/link";
-import {
-  FaLinkedinIn,
-  FaGoogle,
-  FaFacebookF,
-  FaRegEnvelope,
-} from "react-icons/fa";
-import { IoMdLock } from "react-icons/io";
 import SingUp from "./components/SingUp";
 import SignIn from "./components/SignIn";
-// import SignIn from "./components/SignIn";
-
 
 export default function Home() {
   return (
